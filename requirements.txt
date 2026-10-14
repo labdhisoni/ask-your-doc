@@ -1,0 +1,9 @@
+pypdf
+pypdfium2
+pytesseract
+pillow
+python-docx
+sentence-transformers
+transformers
+accelerate
+scikit-learn
