@@ -1,4 +1,4 @@
-# Ask Your Documents
+# Ask Your Doc
 
 A retrieval-augmented generation (RAG) web app that lets you upload documents and chat with them. Answers are generated from your files only and come with the source passages and page numbers they were based on.
 
@@ -50,8 +50,8 @@ Python, PyTorch, Hugging Face Transformers, Sentence-Transformers, scikit-learn,
 **Option 2: locally.** Requires Python 3.10+ and Tesseract installed (`brew install tesseract` on macOS, `sudo apt install tesseract-ocr` on Ubuntu).
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ask-your-documents.git
-cd ask-your-documents
+git clone https://github.com/labdhisoni/ask-your-doc.git
+cd ask-your-doc
 pip install -r requirements.txt gradio
 python app.py
 ```
