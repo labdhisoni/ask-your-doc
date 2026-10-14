@@ -4,7 +4,7 @@ A retrieval-augmented generation (RAG) web app that lets you upload documents an
 
 **Live demo:** https://huggingface.co/spaces/labdhiraisoni/ask-your-doc
 
-![App screenshot](<img width="1219" height="850" alt="screenshot" src="https://github.com/user-attachments/assets/24d9070f-d688-4ac7-b5cf-745827a73dd0" />)
+<img width="1219" height="850" alt="screenshot" src="https://github.com/user-attachments/assets/24d9070f-d688-4ac7-b5cf-745827a73dd0" />
 
 ## Features
 
